@@ -86,5 +86,5 @@ Calls startOver() after each game. Ends the simulation once a game has been play
 
 ??? I am not sure what the first for loop is doing. Is it a monte carlo simulation? 
 
-allGreen (boolean), initialized T, updated if one of characters is incorrect
-completed (boolean), initialized F, updated if round = 6
+- allGreen (boolean), initialized T, updated if one of characters is incorrect
+- completed (boolean), initialized F, updated if round = 6
